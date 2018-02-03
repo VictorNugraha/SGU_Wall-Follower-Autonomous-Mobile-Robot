@@ -1,1 +1,1 @@
-# SGU_Wall-Follower-Autonomous-Mobile-Robot
+# SGU Wall Follower Autonomous Mobile Robot
